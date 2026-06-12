@@ -57,7 +57,7 @@ const photos = [
     { src: "img/061201.jpeg", caption: "Bolinho - Obrigado, sra. Fátima!' ❤️"},
     { src: "img/061202.jpeg", caption: "Conhecendo a família' ❤️"},
     { src: "img/061203.jpeg", caption: "Vinhedo!' ❤️"},
-    { src: "img/061205.jpeg", caption: "2 meses!' ❤️"},
+    { src: "img/061204.jpeg", caption: "2 meses!' ❤️"},
     { src: "img/061205.jpeg", caption: "2 meses!' ❤️"}
 ];
 
