@@ -19,6 +19,8 @@ const quotes = [
     { text: "Isso é uma dança, te conduzir não é tentar dançar por você", date: "May-2026" },
     { text: "As vezes um papel e uma caneta podem mudar o mundo, né?", date: "May-2026" },
     { text: "Eu amo ordinário... Ainda mai se for para vivê-lo ao seu lado.", date: "May-2026" },
+    { text: "O abraço precisa ser escutado, ele também fala...", date: "Jun-2026" },
+    { text: "Assim como a fé sem obras é morta, o amor sem ação pode ser apagado.", date: "May-2026" },
 ];
 
 // Datas importantes
@@ -28,7 +30,9 @@ const importantDates = [
     { date: "14/03/2026", event: "🎉 Interrogatório com a Gabi - 'Quais são os seus planos com a minha irmã?'" },
     { date: "15/03/2026", event: "🎉 Primeiro encontro - 'Eu te amo' - Conhecendo a família" },
     { date: "04/04/2026", event: "🎉 Pedido de Namoro - 'Crente não namora!'" },
-    { date: "04/05/2026", event: "🎉 Aniversário de namoro (1º mês)" }
+    { date: "04/05/2026", event: "🎉 Aniversário de namoro (1º mês)" },
+    { date: "04/06/2026", event: "🎉 Aniversário de namoro (2º mês)" },
+    { date: "16/06/2026", event: "🎉 1º Dia dos Namorados" }
 ];
 
 // Fotos
@@ -49,7 +53,12 @@ const photos = [
     { src: "img/14.jpeg", caption: "Pedido de Namoro' ❤️" },
     { src: "img/16.jpeg", caption: "Para o Post' ❤️" },
     { src: "img/17.jpeg", caption: "Obrigado Via Mobilidade' ❤️" },
-    { src: "img/18.jpeg", caption: "Aniversário! - 'Kennya Faltou' ❤️"}
+    { src: "img/18.jpeg", caption: "Aniversário! - 'Kennya Faltou' ❤️"},
+    { src: "img/061201.jpeg", caption: "Bolinho - Obrigado, sra. Fátima!' ❤️"},
+    { src: "img/061202.jpeg", caption: "Conhecendo a família' ❤️"},
+    { src: "img/061203.jpeg", caption: "Vinhedo!' ❤️"},
+    { src: "img/061205.jpeg", caption: "2 meses!' ❤️"},
+    { src: "img/061205.jpeg", caption: "2 meses!' ❤️"}
 ];
 
 // ============================================
