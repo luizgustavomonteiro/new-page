@@ -34,8 +34,8 @@ const importantDates = [
     { date: "04/05/2026", event: "🎉 Aniversário de namoro (1º mês)" },
     { date: "04/06/2026", event: "🎉 Aniversário de namoro (2º mês)" },
     { date: "16/06/2026", event: "🎉 1º Dia dos Namorados" },
-    { date: "04/06/2026", event: "🎉 Aniversário de namoro (3º mês)" },
-    { date: "04/07/2026", event: "🎉 Aniversário de namoro (4º mês)" }
+    { date: "04/07/2026", event: "🎉 Aniversário de namoro (3º mês)" },
+    { date: "04/08/2026", event: "🎉 Aniversário de namoro (4º mês)" }
 ];
 
 // Fotos
