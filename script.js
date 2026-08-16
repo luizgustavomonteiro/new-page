@@ -21,6 +21,7 @@ const quotes = [
     { text: "Eu amo ordinário... Ainda mai se for para vivê-lo ao seu lado.", date: "May-2026" },
     { text: "O abraço precisa ser escutado, ele também fala...", date: "Jun-2026" },
     { text: "Assim como a fé sem obras é morta, o amor sem ação pode ser apagado.", date: "May-2026" },
+    { text: "Mesmo quando algo nos separa, nós continuamos procurando um pelo outro.", date: "Aug-2026" },
 ];
 
 // Datas importantes
@@ -32,7 +33,9 @@ const importantDates = [
     { date: "04/04/2026", event: "🎉 Pedido de Namoro - 'Crente não namora!'" },
     { date: "04/05/2026", event: "🎉 Aniversário de namoro (1º mês)" },
     { date: "04/06/2026", event: "🎉 Aniversário de namoro (2º mês)" },
-    { date: "16/06/2026", event: "🎉 1º Dia dos Namorados" }
+    { date: "16/06/2026", event: "🎉 1º Dia dos Namorados" },
+    { date: "04/06/2026", event: "🎉 Aniversário de namoro (3º mês)" },
+    { date: "04/07/2026", event: "🎉 Aniversário de namoro (4º mês)" }
 ];
 
 // Fotos
@@ -58,7 +61,17 @@ const photos = [
     { src: "img/061202.jpeg", caption: "Conhecendo a família' ❤️"},
     { src: "img/061203.jpeg", caption: "Vinhedo!' ❤️"},
     { src: "img/061204.jpeg", caption: "2 meses!' ❤️"},
-    { src: "img/061205.jpeg", caption: "2 meses!' ❤️"}
+    { src: "img/061205.jpeg", caption: "2 meses!' ❤️"},
+    { src: "img/801.jpeg", caption: "Férias! 📸"},
+    { src: "img/802.jpeg", caption: "Férias! 📸"},
+    { src: "img/803.jpeg", caption: "Férias! 📸"},
+    { src: "img/804.jpeg", caption: "Comendo! 📸"},
+    { src: "img/805.jpeg", caption: "Férias! 📸"},
+    { src: "img/807.jpeg", caption: "Férias! 📸"},
+    { src: "img/Jesus.jpeg", caption: "Férias com Jesus! 📸"},
+    { src: "img/Jovens.jpeg", caption: "Jovens! 📸"},
+    { src: "img/Zoo.jpeg", caption: "Férias no Zoo! 📸"},
+    { src: "img/ZooII.jpeg", caption: "Férias no Zoo! 📸"},
 ];
 
 // ============================================
